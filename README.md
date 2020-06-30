@@ -1,3 +1,3 @@
-# JavaConnect4Game
-This is a simple Java Game Application created using JavaFX.
-The name of the Game is Connect4
+# Java Connect Four Game
+Connect Four is a Java Gaming Application designed using JavaFX.
+Simply download the .jar file to run the application on your device.
